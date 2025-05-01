@@ -3,6 +3,6 @@ My first repository
 
 # My Favorite Movies
 
-  *Avengers Endgame*
-  *Interstellar*
-  *Sword Art Online Progressive: Aria of a Starless Night*
+1.  *Avengers Endgame*
+2.  *Interstellar*
+3.  *Sword Art Online Progressive: Aria of a Starless Night*
